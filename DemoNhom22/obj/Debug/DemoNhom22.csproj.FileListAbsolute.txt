@@ -1,0 +1,10 @@
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\bin\Debug\DemoNhom22.exe
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\bin\Debug\DemoNhom22.pdb
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\obj\Debug\DemoNhom22.csproj.AssemblyReference.cache
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\obj\Debug\DemoNhom22.Form1.resources
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\obj\Debug\DemoNhom22.Properties.Resources.resources
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\obj\Debug\DemoNhom22.csproj.GenerateResource.cache
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\obj\Debug\DemoNhom22.csproj.CoreCompileInputs.cache
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\obj\Debug\DemoNhom22.exe
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\obj\Debug\DemoNhom22.pdb
+C:\Users\npanh\source\repos\DemoNhom22\DemoNhom22\bin\Debug\DemoNhom22.exe.config
